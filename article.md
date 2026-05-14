@@ -89,9 +89,9 @@ Expected frequencies:
 ```
 
 ### Policy Interpretation:
-- **Chi-squared Statistic (3.84)**: Indicates the extent of deviation from the expected frequencies.
-- **P-value (0.05)**: At the 5% significance level, the null hypothesis is at the threshold of rejection, suggesting a potential relationship between educational attainment and employment status.
-- **Expected Frequencies**: Provide a baseline for comparison, calculated under the assumption of independence.
+- Chi-squared Statistic (3.84): Indicates the extent of deviation from the expected frequencies.
+- P-value (0.05): At the 5% significance level, the null hypothesis is at the threshold of rejection, suggesting a potential relationship between educational attainment and employment status.
+- Expected Frequencies: Provide a baseline for comparison, calculated under the assumption of independence.
 
 ### Implications for Public Policy
 If the test reveals a statistically significant relationship, policymakers can conclude that educational attainment and employment status are not independent. This insight could influence workforce development strategies, such as targeted training programs for individuals with lower educational attainment.
@@ -99,9 +99,9 @@ If the test reveals a statistically significant relationship, policymakers can c
 For instance, the analysis might suggest that college graduates have higher employment rates, prompting the government to enhance access to higher education or provide skill-based training for high school graduates.
 
 ### Limitations and Considerations
-- **Causality**: The Chi-squared test identifies associations but does not establish causal relationships. Policymakers should investigate further using longitudinal studies or experimental designs.
-- **Sample Size and Distribution**: Small sample sizes or sparse contingency tables can affect the validity of the test. In such cases, Fisher's Exact Test may be more appropriate.
-- **Confounding Variables**: Potential confounders, such as regional economic conditions, should be considered to avoid misleading conclusions.
+- Causality: The Chi-squared test identifies associations but does not establish causal relationships. Policymakers should investigate further using longitudinal studies or experimental designs.
+- Sample Size and Distribution: Small sample sizes or sparse contingency tables can affect the validity of the test. In such cases, Fisher's Exact Test may be more appropriate.
+- Confounding Variables: Potential confounders, such as regional economic conditions, should be considered to avoid misleading conclusions.
 
 The Chi-squared test for independence is a powerful tool for public policy analysis, offering insights into categorical associations that inform evidence-based decision-making. By rigorously applying this test, policymakers can evaluate the effectiveness of interventions, identify demographic disparities, and design targeted policies to address social inequities.
 

@@ -1,7 +1,7 @@
 # Chi Squared Test for Independence in Public Policy Analysis
 
-**Published:** 2025-02-27
-**Medium:** [https://medium.com/@kyle-t-jones/chi-squared-test-for-independence-in-public-policy-analysis-7894b96383ef](https://medium.com/@kyle-t-jones/chi-squared-test-for-independence-in-public-policy-analysis-7894b96383ef)
+Published: 2025-02-27
+Medium: [https://medium.com/@kyle-t-jones/chi-squared-test-for-independence-in-public-policy-analysis-7894b96383ef](https://medium.com/@kyle-t-jones/chi-squared-test-for-independence-in-public-policy-analysis-7894b96383ef)
 
 ## About
 
