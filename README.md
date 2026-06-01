@@ -11,14 +11,7 @@ In the context of public policy, the Chi-squared test for independence is instru
 
 - Assess the relationship between demographic factors and policy outcomes. - Investigate whether disparities exist between subgroups, such as racial or income categories. - Inform policy adjustments to address observed inequalities or unintended consequences.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
